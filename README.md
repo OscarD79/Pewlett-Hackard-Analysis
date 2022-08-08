@@ -6,9 +6,9 @@ The objective of this project is to prepare for a large number of employees who 
 
 Please see the three databases created below.
 
-![retirement_titles.csv](./Data/retirement_titles.csv)
+![retiring_titles.csv](../Data/retiring_titles.csv)
 
-![unique_titles.csv](./Data/unique_titles.csv)
+![unique_titles.csv](/Data/unique_titles.csv)
 
 ![mentorship_eligibility.csv](./Data/mentorship_eligibility.csv)
 
