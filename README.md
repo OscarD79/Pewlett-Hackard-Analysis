@@ -8,7 +8,7 @@ Please see the three databases created below.
 
 ![retiring_titles.csv](../Data/retiring_titles.csv)
 
-![unique_titles.csv](/Data/unique_titles.csv)
+![unique_titles.csv](Data/unique_titles.csv)
 
 ![mentorship_eligibility.csv](./Data/mentorship_eligibility.csv)
 
