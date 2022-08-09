@@ -21,7 +21,7 @@ After completing the two separate analyses, there are 4 major conclusions that c
 
 * Pewlett Hackard's greatest needs will be in highly technical areas (see image below).
 
-![titles_counts.png](./Data/titles_counts.png)
+![titles_counts.png](../Data/titles_counts.png)
 
 * Pewlett Hackard's most common mentors will be Senior Staff.
 
