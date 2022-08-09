@@ -6,11 +6,12 @@ The objective of this project is to prepare for a large number of employees who 
 
 Please see the three databases created below.
 
-![retiring_titles.csv](../Data/retiring_titles.csv)
+[retiring_titles.csv](./Data/retiring_titles.csv)
 
-![unique_titles.csv](Data/unique_titles.csv)
+[unique_titles.csv](./Data/unique_titles.csv)
 
-![mentorship_eligibility.csv](./Data/mentorship_eligibility.csv)
+[mentorship_eligibility.csv](./Data/mentorship_eligibility.csv)
+
 
 ## Results
 
@@ -24,4 +25,4 @@ Please see the three databases created below.
 
 Please find the SQL code used to draw these conclusions below:
 
-![Employee_Database_challenge.sql](./Queries/Employee_Database_challenge.sql)
+[Employee_Database_challenge.sql](./Queries/Employee_Database_challenge.sql)
