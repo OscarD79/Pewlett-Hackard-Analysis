@@ -15,12 +15,22 @@ Please see the three databases created below.
 
 ## Results
 
+After completing the two separate analyses, there are 4 major conclusions that can be achieved.
 
+* Pewlett Hackard is going to soon lose 64% of it's workforce.
+
+* Pewlett Hackard's greatest needs will be in highly technical areas (see image below).
+
+![titles_counts.png](./Data/titles_counts.png)
+
+* Pewlett Hackard's most common mentors will be Senior Staff.
+
+* There are many candidates for the mentorship program (1549 mentors).
 
 
 ## Conclusions
 
-
+In summary the "silver tsunami" will leave many roles to be filled (specifically 90,398). With only 1549 mentor candidates that makes up only two percent of the workforce that will be retiring. This means that each mentor would need to mentor 58 employees in order to meet the demand. It would be prudent to begin the process of mass hirings as soon as possible. I would recommend to do additional research and expand the search for mentors among younger employees with reasonable tenure to assist in the process.
 
 
 Please find the SQL code used to draw these conclusions below:
